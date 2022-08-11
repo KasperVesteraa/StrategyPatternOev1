@@ -1,0 +1,6 @@
+/home/dremacs/2022/StrategyPatternOev1/StrategyPatternOev1/bin/Debug/StrategyPatternOev1.exe
+/home/dremacs/2022/StrategyPatternOev1/StrategyPatternOev1/bin/Debug/StrategyPatternOev1.pdb
+/home/dremacs/2022/StrategyPatternOev1/StrategyPatternOev1/obj/Debug/StrategyPatternOev1.csproj.AssemblyReference.cache
+/home/dremacs/2022/StrategyPatternOev1/StrategyPatternOev1/obj/Debug/StrategyPatternOev1.csproj.CoreCompileInputs.cache
+/home/dremacs/2022/StrategyPatternOev1/StrategyPatternOev1/obj/Debug/StrategyPatternOev1.exe
+/home/dremacs/2022/StrategyPatternOev1/StrategyPatternOev1/obj/Debug/StrategyPatternOev1.pdb
